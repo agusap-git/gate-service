@@ -5,6 +5,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class GateService {
     public String openMainGate(String action) {
-        return "Opening Gate....";
+        return "Opening Main Gate....";
     }
 }
